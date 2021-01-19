@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972294401402",
+    "firebase_url": "https://flutter-c1787.firebaseio.com",
+    "project_id": "flutter-c1787",
+    "storage_bucket": "flutter-c1787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972294401402:android:1680839bb447db3f3bbac3",
+        "android_client_info": {
+          "package_name": "com.vatsmohit.gmail_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972294401402-1eqgs5kar4b8jtrlok27aavgjvdfv6a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvRPvwrGTo9k5q5qOgiSYoiWDP9VYNe8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972294401402-1eqgs5kar4b8jtrlok27aavgjvdfv6a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
